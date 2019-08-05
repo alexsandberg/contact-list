@@ -1,0 +1,5 @@
+           Name               Company        Phone number                 Email address
+Fitzgerald, Zoe                 Tesla          4108393902      zoe_fitzgerald@email.com
+Hamilton, Megan              Facebook          4781903896      megan_hamilton@email.com
+ Philips, Steve                Oracle          3018579974       steve_philips@email.com
+   Smith, Kevin                Google          3891005671         kevin_smith@email.com
