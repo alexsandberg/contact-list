@@ -1,4 +1,4 @@
-# Calendar Generator
+# Contact List Manager
 This program allows the user to manage a contact list, updating the contacts to an external file. This project was created for an assignment in [Intro to Programming Using Java](https://apps.ep.jhu.edu/course-homepages/3517-605.201-introduction-to-programming-using-java-deal-jr-) at Johns Hopkins University.
 
 ## Installation
